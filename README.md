@@ -27,5 +27,6 @@
 - Jupyter Notebook
 - (Optional: Flask or Streamlit for deployment)
 
-![ai](https://github.com/user-attachments/assets/60fb97ec-25ca-42e7-b77c-02a00afe6f8b)
+![output](https://github.com/user-attachments/assets/449a2a07-0f7b-4eae-8445-60e15756b8c6)
+
 
